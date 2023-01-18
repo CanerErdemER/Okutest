@@ -472,7 +472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09b4665024fba664aaa9ecda10bc645e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waitTime: 2
+  waitTime: 0.5
   cubeSpawnTotal: 10
   cubePrefabList:
   - {fileID: 3626782941008313165, guid: b99c9ea01b3d8f54f89776aa4b97e75c, type: 3}
